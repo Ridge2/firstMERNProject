@@ -2,7 +2,7 @@
 
 {
   "mongoURI":
-    "mongodb+srv://mern123:TheIAM@21@mernatoz-9kdpd.mongodb.net/test?retryWrites=true&w=majority"
+    "mongodb+srv://mern123:Woofer123@mernatoz-9kdpd.mongodb.net/test?retryWrites=true&w=majority"
 }
    /* Replace <password> with your database password */ 
   
